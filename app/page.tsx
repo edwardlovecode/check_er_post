@@ -1,5 +1,5 @@
-import ERChecker from "@/app/_components/ERChecker";
+import ZamaERCalculator from "@/app/_components/ERChecker";
 
 export default function HomePage() {
-  return <ERChecker />;
+  return <ZamaERCalculator />;
 }
